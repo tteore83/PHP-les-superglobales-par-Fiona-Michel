@@ -1,1 +1,1 @@
-# PHP-les-superglobales-par-Fiona-Michel
+# PHP, les superglobales par Fiona Michel
